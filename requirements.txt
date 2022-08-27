@@ -1,0 +1,5 @@
+Sphinx==5.1.1
+sphinx-sizzle-theme>=0.1.1
+sphinx_copybutton>=0.3.3
+sphinx-lint<1
+sphinxext-rediraffe
